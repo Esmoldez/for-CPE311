@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact **🔬 Research Interests - Medical Technology - Environmental Innovation - Sustainable Solutions - Data Science and AI in Healthcare**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: qesmoldez@gmail.com</h3>
 <p align="left">
 </p>
 
