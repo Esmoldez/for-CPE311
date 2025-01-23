@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moldez Ericka Sheen C.</h1>
-<h3 align="center">I am a Computer Engineering student taking Data Science as my elective</h3>
+<h3 align="center">I am a Computer Engineering student taking Data Science</h3>
 
 - ⚡ Fun fact **🔬 Research Interests<br>- Medical Technology<br> - Environmental Innovation<br> - Sustainable Solutions<br> - Data Science and AI in Healthcare**
 
