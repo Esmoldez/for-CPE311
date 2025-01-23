@@ -1,6 +1,9 @@
-h1 {
-  color: purple;
-}
-Welcome to my repository for the CPE311 course, "Computational Thinking with Python" This repository will contain all my projects, assignments, and hands-on activities for the course.
+<h1 align="center">Hi 👋, I'm Moldez Ericka Sheen C.</h1>
+<h3 align="center">2nd-yeI am a Computer Engineering student taking Data Science as my elective</h3>
 
-Hi, I'm Moldez Ericka Sheen C., a 2nd-year Computer Engineering student taking Data Science as my elective. I'm passionate about research and tech innovation, particularly in fields that can contribute to environmental and medical technology. I strive to find connections and develop a deep understanding of the root causes of issues to draft effective research plans. While I'm still learning coding and my skills may not yet be sufficient for my elective, I'm willing to exert effort to enhance them. I have the courage to learn and grow in this field.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
