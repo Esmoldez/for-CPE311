@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moldez Ericka Sheen C.</h1>
 <h3 align="center">2nd Year Computer Engineering student taking Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=m1Bh5gV6&id=F4B3141DDFEEA2417C696597333D2D03C9291F10&thid=OIP.m1Bh5gV6NC4_yfjdzNvNVwHaD_&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F85%2F18%2Fe18518c6d24257c6fb02e3c95a862d85.gif&exph=270&expw=500&q=animated+programmer+girl+gif&simid=608045053749646744&FORM=IRPRST&ck=1C5C5BC8AE40C8045ECC9D3FD17D7D74&selectedIndex=1&itb=0&ubiroff=1&cw=1375&ch=664&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=Me%2BPjzBp&id=D2E8637A5C381FEE7C246AF35A93D8035C7BC3D3&thid=OIP.Me-PjzBpge44f38UvMTqegHaFj&mediaurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F8077555.png&exph=1200&expw=1600&q=animated+programmer+girl+anime&simid=608001004511445338&FORM=IRPRST&ck=1BDBA0B184C3CD5DE8893D1BB2FCEEAB&selectedIndex=9&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0">
 
 **⚡ Fun fact** **<br>🔬 Research Interests<br>**- Medical Technology<br> - Environmental Innovation<br> - Sustainable Solutions<br> - Data Science and AI in Healthcare
 
