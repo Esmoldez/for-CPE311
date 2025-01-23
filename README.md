@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moldez Ericka Sheen C.</h1>
 <h3 align="center">2nd Year Computer Engineering student taking Data Science</h3>
 
-- ⚡ Fun fact **🔬<br> Research Interests<br>- Medical Technology<br> - Environmental Innovation<br> - Sustainable Solutions<br> - Data Science and AI in Healthcare**
+- ⚡ Fun fact **<br>🔬 Research Interests<br>- Medical Technology<br> - Environmental Innovation<br> - Sustainable Solutions<br> - Data Science and AI in Healthcare**
 
 <h3 align="left">Connect with me: qesmoldez@gmail.com</h3>
 <p align="left">
