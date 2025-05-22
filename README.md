@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Moldez Ericka Sheen C., a 2nd Year Computer Engineering student taking Data Science</h2>
+<h2 align="left">Hey there! I'm Moldez Ericka Sheen C., a 2nd Year Computer Engineering student taking Data Science</h2>
 
 ###
 
