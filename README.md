@@ -2,7 +2,7 @@
 <h3 align="center">📚 2nd Year Computer Engineering Student | 🎯 Focused on Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;I+love+turning+data+into+insight.;Always+curious%2C+always+learning.🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Driven+by+curiosity,+powered+by+data.;Always+curious%2C+always+learning.🚀" alt="Typing SVG" />
 </p>
 
 ---
